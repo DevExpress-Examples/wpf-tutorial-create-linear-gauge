@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DXGauges_Linear/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXGauges_Linear/MainWindow.xaml))
+<!-- default file list end -->
 # DXGauges Getting Started - Lesson 2 - Create a Linear Gauge
 
 
