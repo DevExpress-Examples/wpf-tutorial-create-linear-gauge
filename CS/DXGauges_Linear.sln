@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGauges_Linear", "DXGauges_Linear\DXGauges_Linear.csproj", "{8BAE7D5D-FD3F-49C8-AC76-59FCBD6DCFC0}"
 EndProject
 Global
