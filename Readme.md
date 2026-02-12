@@ -31,7 +31,7 @@ This example creates and customizes a [WPF Linear Gauge Control](https://docs.de
 * [WPF Gauge - Create a Circular Gauge](https://github.com/DevExpress-Examples/wpf-create-circular-gauge-control)
 * [WPF Gauge - Create a State Indicator](https://github.com/DevExpress-Examples/wpf-gauge-create-state-indicator)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-tutorial-create-linear-gauge&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-tutorial-create-linear-gauge&~~~was_helpful=no)
 
